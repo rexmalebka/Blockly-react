@@ -8,6 +8,7 @@
 			"dom"
 		],
 		"module": "ESNext",
+		"declaration":true,
 		"skipLibCheck": true,
 		"esModuleInterop": true,
 		"noImplicitAny": true,
