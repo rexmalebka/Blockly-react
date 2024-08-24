@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "module": "dist/Blockly.umd.js",
   "scripts": {
     "lint": "npx eslint src/",
     "lint:fix": "npx eslint --fix src/",
